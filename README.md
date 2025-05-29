@@ -9,6 +9,7 @@ Este es mi primer proyecto en GitHub.
 ## 📁 Estructura del proyecto
 
 pagina_bienvenida
+
 ┣ 📄 README.md
 ┣ 📄 index.html
 ┗ 📄 style.css
