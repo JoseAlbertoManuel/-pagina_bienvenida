@@ -1,9 +1,14 @@
-# Mi Proyecto Web
+# Bienvenido a mi repositorio 🚀
+Este es mi primer proyecto en GitHub.
+## 👤 Hecho por Jose Alberto Manuel Luzon
 
-Este es un proyecto simple que incluye HTML y CSS.
+## 📚 Tecnologías usadas
+- HTML
+- CSS
+- Markdown
+## 📁 Estructura del proyecto
 
-## Estructura
-
-- `index.html`: Página principal de la web.
-- `style.css`: Hoja de estilos para la presentación.
-- `README.md`: Descripción general del proyecto.
+pagina_bienvenida
+┣ 📄 README.md
+┣ 📄 index.html
+┗ 📄 style.css
